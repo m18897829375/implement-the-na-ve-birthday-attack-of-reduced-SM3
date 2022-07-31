@@ -38,7 +38,6 @@ def brithAttack(alpha, beta, p):
         # 计算出 beta * alpha^{-l} mod p 并放入集合,同时在另一列表记录下l
         item_l = beta * pow(alpha, -list_l[i], p) % p
         list_l_value.append(item_l)
-
     print(list_k_value)
     print(list_l_value)
     # 求出合集

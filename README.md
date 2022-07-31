@@ -54,5 +54,6 @@ def brithAttack(alpha, beta, p):
             print(x % (p - 1))
         return True
 6.代码运行全过程截图：
+
 ![IB`@33OYQ0M8)PR%@J}K2~K](https://user-images.githubusercontent.com/104509245/182012637-b32177ff-123d-41fb-9e99-fa523f42a9e1.png)
 
